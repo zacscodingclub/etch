@@ -1,0 +1,36 @@
+#container {
+    width:960px;
+    margin:0 auto;
+}
+#buttons {
+    margin:0 auto;
+}
+#sketch{
+    float:left;
+    margin:0 auto;
+    width:960px;
+}
+button{
+    height:30px;
+    width:100px;
+    margin:20px;
+    position:relative;
+    border:1px solid black;
+    border-radius:3px;
+    text-align:center;
+}
+#clear,#purple {
+    position:relative;
+}
+.block {
+    float:left;
+    background-color:black;
+}
+.lead {
+    float:left;
+    background-color: red;
+}
+.purple {
+    float:left;
+    background-color: #551a8b;
+}
